@@ -3,8 +3,8 @@
 Clone the source locally:
 
 ```bash
-$ git clone https://github.com/swarnabgarang/foodict-backend.git
-$ cd foodict-backend
+$ git clone https://github.com/arihantbansal/khalo-backend.git
+$ cd khalo-backend
 ```
 
 Install project dependencies:
