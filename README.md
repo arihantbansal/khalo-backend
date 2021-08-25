@@ -16,12 +16,10 @@ $ npm install
 Create environment variables:
 
 ```bash
-$ mkdir config
-$ cd ./config
-$ touch dev.env
+$ touch .env
 ```
 
-Enter the env variables in the `dev.env` file
+Enter the env variables in the `.env` file
 
 ```
 PORT=4001
